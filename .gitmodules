@@ -1,0 +1,4 @@
+[submodule "InputBox"]
+	path = InputBox
+	url = https://github.com/wikimedia/mediawiki-extensions-InputBox
+	branch = REL1_28
