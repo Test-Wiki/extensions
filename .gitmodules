@@ -2,10 +2,6 @@
 	path = InputBox
 	url = https://github.com/wikimedia/mediawiki-extensions-InputBox
 	branch = REL1_28
-[submodule "Thanks"]
-	path = Thanks
-	url = https://github.com/wikimedia/mediawiki-extensions-Thanks
-	branch = REL1_28
 [submodule "AbuseFilter"]
 	path = AbuseFilter
 	url = https://github.com/wikimedia/mediawiki-extensions-AbuseFilter
