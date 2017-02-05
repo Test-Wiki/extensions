@@ -6,3 +6,7 @@
 	path = AbuseFilter
 	url = https://github.com/wikimedia/mediawiki-extensions-AbuseFilter
 	branch = master
+[submodule "WikiLove"]
+	path = WikiLove
+	url = https://github.com/wikimedia/mediawiki-extensions-WikiLove
+	branch = REL1_28
