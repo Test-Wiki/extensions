@@ -10,3 +10,7 @@
 	path = WikiLove
 	url = https://github.com/wikimedia/mediawiki-extensions-WikiLove
 	branch = REL1_28
+[submodule "FlaggedRevs"]
+	path = FlaggedRevs
+	url = https://github.com/wikimedia/mediawiki-extensions-FlaggedRevs
+	branch = REL1_28
