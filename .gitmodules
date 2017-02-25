@@ -14,3 +14,7 @@
 	path = FlaggedRevs
 	url = https://github.com/wikimedia/mediawiki-extensions-FlaggedRevs
 	branch = REL1_28
+[submodule "UniversalLanguageSelector"]
+	path = UniversalLanguageSelector
+	url = https://github.com/wikimedia/mediawiki-extensions-UniversalLanguageSelector
+	branch = master
