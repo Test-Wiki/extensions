@@ -18,3 +18,7 @@
 	path = UniversalLanguageSelector
 	url = https://github.com/wikimedia/mediawiki-extensions-UniversalLanguageSelector
 	branch = master
+[submodule "Thanks"]
+	path = Thanks
+	url = https://github.com/wikimedia/mediawiki-extensions-Thanks
+	branch = REL1_28
