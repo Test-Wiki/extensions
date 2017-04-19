@@ -22,3 +22,7 @@
 	path = Thanks
 	url = https://github.com/wikimedia/mediawiki-extensions-Thanks
 	branch = REL1_28
+[submodule "VisualEditor"]
+	path = VisualEditor
+	url = https://github.com/wikimedia/mediawiki-extensions-VisualEditor
+	branch = REL1_28
