@@ -26,3 +26,7 @@
 	path = OATHAuth
 	url = https://github.com/wikimedia/mediawiki-extensions-OATHAuth
 	branch = REL1_28
+[submodule "Scribunto"]
+	path = Scribunto
+	url = https://github.com/wikimedia/mediawiki-extensions-Scribunto
+	branch = REL1_28
