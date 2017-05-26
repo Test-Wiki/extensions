@@ -30,3 +30,7 @@
 	path = Scribunto
 	url = https://github.com/wikimedia/mediawiki-extensions-Scribunto
 	branch = REL1_28
+[submodule "OAuth"]
+	path = OAuth
+	url = https://github.com/wikimedia/mediawiki-extensions-OAuth
+	branch = REL1_28
