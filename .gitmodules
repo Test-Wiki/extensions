@@ -106,3 +106,7 @@
 	path = Translate
 	url = https://github.com/wikimedia/mediawiki-extensions-Translate
 	branch = master
+[submodule "luasandbox"]
+	path = luasandbox
+	url = https://github.com/wikimedia/mediawiki-php-luasandbox
+	branch = master
