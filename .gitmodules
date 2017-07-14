@@ -82,17 +82,9 @@
 	path = ParserFunctions
 	url = https://github.com/wikimedia/mediawiki-extensions-ParserFunctions
 	branch = REL1_29
-[submodule "RenameUser"]
-	path = RenameUser
-	url = https://github.com/wikimedia/mediawiki-extensions-RenameUser
-	branch = REL1_29
 [submodule "SpamBlacklist"]
 	path = SpamBlacklist
 	url = https://github.com/wikimedia/mediawiki-extensions-SpamBlacklist
-	branch = REL1_29
-[submodule "WikiEdiitor"]
-	path = WikiEdiitor
-	url = https://github.com/wikimedia/mediawiki-extensions-WikiEditor
 	branch = REL1_29
 [submodule "MaintenanceShell"]
 	path = MaintenanceShell
@@ -110,3 +102,23 @@
 	path = luasandbox
 	url = https://github.com/wikimedia/mediawiki-php-luasandbox
 	branch = master
+[submodule "WikiEditor"]
+	path = WikiEditor
+	url = https://github.com/wikimedia/mediawiki-extensions-WikiEditor
+	branch = REL1_29
+[submodule "RenameUser"]
+	path = RenameUser
+	url = https://github.com/wikimedia/mediawiki-extensions-RenameUser
+	branch = REL1_29
+[submodule "PdfHandler"]
+	path = PdfHandler
+	url = https://github.com/wikimedia/mediawiki-extensions-PdfHandler
+	branch = REL1_29
+[submodule "Elastica"]
+	path = Elastica
+	url = https://github.com/wikimedia/mediawiki-extensions-Elastica
+	branch = REL1_29
+[submodule "CirrusSearch"]
+	path = CirrusSearch
+	url = https://github.com/wikimedia/mediawiki-extensions-CirrusSearch
+	branch = REL1_29
