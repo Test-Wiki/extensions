@@ -114,11 +114,3 @@
 	path = PdfHandler
 	url = https://github.com/wikimedia/mediawiki-extensions-PdfHandler
 	branch = REL1_29
-[submodule "Elastica"]
-	path = Elastica
-	url = https://github.com/wikimedia/mediawiki-extensions-Elastica
-	branch = REL1_29
-[submodule "CirrusSearch"]
-	path = CirrusSearch
-	url = https://github.com/wikimedia/mediawiki-extensions-CirrusSearch
-	branch = REL1_29
