@@ -116,5 +116,5 @@
 	branch = REL1_29
 [submodule "CheckUser"]
 	path = CheckUser
-	url = https://github.com/skizzerz/thetestwiki-checkuser
+	url = https://github.com/skizzerz/thetestwiki-checkuser.git
 	branch = master
