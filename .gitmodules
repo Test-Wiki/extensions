@@ -42,10 +42,6 @@
 	path = AutomaticBoardWelcome
 	url = https://github.com/wikimedia/mediawiki-extensions-AutomaticBoardWelcome
 	branch = REL1_29
-[submodule "CheckUser"]
-	path = CheckUser
-	url = https://github.com/wikimedia/mediawiki-extensions-CheckUser
-	branch = REL1_29
 [submodule "CodeEditor"]
 	path = CodeEditor
 	url = https://github.com/wikimedia/mediawiki-extensions-CodeEditor
@@ -118,3 +114,7 @@
 	path = DismissableSiteNotice
 	url = https://github.com/wikimedia/mediawiki-extensions-DismissableSiteNotice
 	branch = REL1_29
+[submodule "CheckUser"]
+	path = CheckUser
+	url = https://github.com/skizzerz/thetestwiki-checkuser
+	branch = master
