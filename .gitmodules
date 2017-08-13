@@ -118,3 +118,7 @@
 	path = CheckUser
 	url = https://github.com/skizzerz/thetestwiki-checkuser.git
 	branch = master
+[submodule "StaffPowers"]
+	path = StaffPowers
+	url = https://github.com/wikimedia/mediawiki-extensions-StaffPowers
+	branch = master
