@@ -126,3 +126,7 @@
 	path = JavascriptSlideshow
 	url = https://github.com/DaSchTour/JavascriptSlideshow
 	branch = master
+[submodule "TitleBlacklist"]
+	path = TitleBlacklist
+	url = https://github.com/wikimedia/mediawiki-extensions-TitleBlacklist
+	branch = REL1_29
