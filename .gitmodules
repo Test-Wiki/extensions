@@ -38,10 +38,6 @@
 	path = VisualEditor
 	url = https://github.com/wikimedia/mediawiki-extensions-VisualEditor
 	branch = REL1_29
-[submodule "AutomaticBoardWelcome"]
-	path = AutomaticBoardWelcome
-	url = https://github.com/wikimedia/mediawiki-extensions-AutomaticBoardWelcome
-	branch = REL1_29
 [submodule "CodeEditor"]
 	path = CodeEditor
 	url = https://github.com/wikimedia/mediawiki-extensions-CodeEditor
