@@ -126,3 +126,7 @@
 	path = TitleBlacklist
 	url = https://github.com/wikimedia/mediawiki-extensions-TitleBlacklist
 	branch = REL1_31
+[submodule "NewUserMessage"]
+	path = NewUserMessage
+	url = https://github.com/wikimedia/mediawiki-extensions-NewUserMessage
+	branch = master
