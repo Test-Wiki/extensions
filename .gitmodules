@@ -130,3 +130,7 @@
 	path = NewUserMessage
 	url = https://github.com/wikimedia/mediawiki-extensions-NewUserMessage
 	branch = master
+[submodule "MatomoAnalytics"]
+	path = MatomoAnalytics
+	url = https://github.com/miraheze/MatomoAnalytics
+	branch = master
