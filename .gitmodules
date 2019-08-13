@@ -134,3 +134,7 @@
 	path = MatomoAnalytics
 	url = https://github.com/miraheze/MatomoAnalytics
 	branch = master
+[submodule "CookieWarning"]
+	path = CookieWarning
+	url = https://github.com/wikimedia/mediawiki-extensions-CookieWarning
+	branch = REL1_32
