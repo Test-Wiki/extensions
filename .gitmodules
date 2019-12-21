@@ -134,3 +134,7 @@
 	path = MatomoAnalytics
 	url = https://github.com/miraheze/MatomoAnalytics
 	branch = master
+[submodule "Flow"]
+	path = Flow
+	url = https://github.com/wikimedia/mediawiki-extensions-Flow
+	branch = REL1_33
