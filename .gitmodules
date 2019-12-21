@@ -1,19 +1,19 @@
 [submodule "InputBox"]
 	path = InputBox
 	url = https://github.com/wikimedia/mediawiki-extensions-InputBox
-	branch = REL1_32
+	branch = REL1_33
 [submodule "AbuseFilter"]
 	path = AbuseFilter
 	url = https://github.com/wikimedia/mediawiki-extensions-AbuseFilter
-	branch = master
+	branch = REL1_33
 [submodule "WikiLove"]
 	path = WikiLove
 	url = https://github.com/wikimedia/mediawiki-extensions-WikiLove
-	branch = REL1_32
+	branch = REL1_33
 [submodule "FlaggedRevs"]
 	path = FlaggedRevs
 	url = https://github.com/wikimedia/mediawiki-extensions-FlaggedRevs
-	branch = REL1_32
+	branch = REL1_33
 [submodule "UniversalLanguageSelector"]
 	path = UniversalLanguageSelector
 	url = https://github.com/wikimedia/mediawiki-extensions-UniversalLanguageSelector
@@ -21,63 +21,63 @@
 [submodule "Thanks"]
 	path = Thanks
 	url = https://github.com/wikimedia/mediawiki-extensions-Thanks
-	branch = REL1_32
+	branch = REL1_33
 [submodule "OATHAuth"]
 	path = OATHAuth
 	url = https://github.com/wikimedia/mediawiki-extensions-OATHAuth
-	branch = REL1_32
+	branch = REL1_33
 [submodule "Scribunto"]
 	path = Scribunto
 	url = https://github.com/wikimedia/mediawiki-extensions-Scribunto
-	branch = REL1_32
+	branch = REL1_33
 [submodule "OAuth"]
 	path = OAuth
 	url = https://github.com/wikimedia/mediawiki-extensions-OAuth
-	branch = REL1_32
+	branch = REL1_33
 [submodule "VisualEditor"]
 	path = VisualEditor
 	url = https://github.com/wikimedia/mediawiki-extensions-VisualEditor
-	branch = REL1_32
+	branch = REL1_33
 [submodule "CodeEditor"]
 	path = CodeEditor
 	url = https://github.com/wikimedia/mediawiki-extensions-CodeEditor
-	branch = REL1_32
+	branch = REL1_33
 [submodule "ConfirmEdit"]
 	path = ConfirmEdit
 	url = https://github.com/wikimedia/mediawiki-extensions-ConfirmEdit
-	branch = REL1_32
+	branch = REL1_33
 [submodule "Echo"]
 	path = Echo
 	url = https://github.com/wikimedia/mediawiki-extensions-Echo
-	branch = REL1_32
+	branch = REL1_33
 [submodule "Gadgets"]
 	path = Gadgets
 	url = https://github.com/wikimedia/mediawiki-extensions-Gadgets
-	branch = REL1_32
+	branch = REL1_33
 [submodule "Interwiki"]
 	path = Interwiki
 	url = https://github.com/wikimedia/mediawiki-extensions-Interwiki
-	branch = REL1_32
+	branch = REL1_33
 [submodule "MassMessage"]
 	path = MassMessage
 	url =https://github.com/wikimedia/mediawiki-extensions-MassMessage
-	branch = REL1_32
+	branch = REL1_33
 [submodule "MediaWikiChat"]
 	path = MediaWikiChat
 	url = https://github.com/wikimedia/mediawiki-extensions-MediaWikiChat
-	branch = REL1_32
+	branch = REL1_33
 [submodule "Nuke"]
 	path = Nuke
 	url = https://github.com/wikimedia/mediawiki-extensions-Nuke
-	branch = REL1_32
+	branch = REL1_33
 [submodule "ParserFunctions"]
 	path = ParserFunctions
 	url = https://github.com/wikimedia/mediawiki-extensions-ParserFunctions
-	branch = REL1_32
+	branch = REL1_33
 [submodule "SpamBlacklist"]
 	path = SpamBlacklist
 	url = https://github.com/wikimedia/mediawiki-extensions-SpamBlacklist
-	branch = REL1_32
+	branch = REL1_33
 [submodule "MaintenanceShell"]
 	path = MaintenanceShell
 	url = https://github.com/wikimedia/mediawiki-extensions-MaintenanceShell
@@ -97,19 +97,19 @@
 [submodule "WikiEditor"]
 	path = WikiEditor
 	url = https://github.com/wikimedia/mediawiki-extensions-WikiEditor
-	branch = REL1_32
+	branch = REL1_33
 [submodule "RenameUser"]
 	path = RenameUser
 	url = https://github.com/wikimedia/mediawiki-extensions-RenameUser
-	branch = REL1_32
+	branch = REL1_33
 [submodule "PdfHandler"]
 	path = PdfHandler
 	url = https://github.com/wikimedia/mediawiki-extensions-PdfHandler
-	branch = REL1_32
+	branch = REL1_33
 [submodule "DismissableSiteNotice"]
 	path = DismissableSiteNotice
 	url = https://github.com/wikimedia/mediawiki-extensions-DismissableSiteNotice
-	branch = REL1_32
+	branch = REL1_33
 [submodule "CheckUser"]
 	path = CheckUser
 	url = https://github.com/skizzerz/thetestwiki-checkuser.git
@@ -125,7 +125,7 @@
 [submodule "TitleBlacklist"]
 	path = TitleBlacklist
 	url = https://github.com/wikimedia/mediawiki-extensions-TitleBlacklist
-	branch = REL1_32
+	branch = REL1_33
 [submodule "NewUserMessage"]
 	path = NewUserMessage
 	url = https://github.com/wikimedia/mediawiki-extensions-NewUserMessage
@@ -138,3 +138,7 @@
 	path = Flow
 	url = https://github.com/wikimedia/mediawiki-extensions-Flow
 	branch = REL1_33
+[submodule "CookieWarning"]
+	path = CookieWarning
+	url = https://github.com/wikimedia/mediawiki-extensions-CookieWarning
+	branch = REL1_32
