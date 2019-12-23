@@ -112,7 +112,7 @@
 	branch = REL1_34
 [submodule "CheckUser"]
 	path = CheckUser
-	url = https://github.com/wikimedia/mediawiki-extensions-CheckUser
+	url = https://github.com/test-wiki/mediawiki-extensions-CheckUser
 	branch = REL1_34
 [submodule "StaffPowers"]
 	path = StaffPowers
