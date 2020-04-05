@@ -118,10 +118,6 @@
 	path = StaffPowers
 	url = https://github.com/wikimedia/mediawiki-extensions-StaffPowers
 	branch = master
-[submodule "JavascriptSlideshow"]
-	path = JavascriptSlideshow
-	url = https://github.com/DaSchTour/JavascriptSlideshow
-	branch = master
 [submodule "TitleBlacklist"]
 	path = TitleBlacklist
 	url = https://github.com/wikimedia/mediawiki-extensions-TitleBlacklist
