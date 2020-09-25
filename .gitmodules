@@ -130,3 +130,6 @@
 	path = CookieWarning
 	url = https://github.com/wikimedia/mediawiki-extensions-CookieWarning
 	branch = REL1_35
+[submodule "MobileFrontend"]
+	path = MobileFrontend
+	url = https://github.com/wikimedia/mediawiki-extensions-MobileFrontend
