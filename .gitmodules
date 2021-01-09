@@ -118,10 +118,6 @@
 	path = TitleBlacklist
 	url = https://github.com/wikimedia/mediawiki-extensions-TitleBlacklist
 	branch = REL1_35
-[submodule "NewUserMessage"]
-	path = NewUserMessage
-	url = https://github.com/wikimedia/mediawiki-extensions-NewUserMessage
-	branch = master
 [submodule "MatomoAnalytics"]
 	path = MatomoAnalytics
 	url = https://github.com/miraheze/MatomoAnalytics
@@ -133,3 +129,4 @@
 [submodule "MobileFrontend"]
 	path = MobileFrontend
 	url = https://github.com/wikimedia/mediawiki-extensions-MobileFrontend
+        branch = REL1_35
