@@ -130,3 +130,7 @@
 	path = MobileFrontend
 	url = https://github.com/wikimedia/mediawiki-extensions-MobileFrontend
         branch = REL1_35
+[submodule "Newsletter"]
+	path = Newsletter
+	url = https://github.com/wikimedia/mediawiki-extensions-Newsletter
+	branch = REL1_35
