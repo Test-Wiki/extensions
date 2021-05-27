@@ -78,10 +78,6 @@
 	path = SpamBlacklist
 	url = https://github.com/wikimedia/mediawiki-extensions-SpamBlacklist
 	branch = REL1_36
-[submodule "SocialProfile"]
-	path = SocialProfile
-	url = https://github.com/wikimedia/mediawiki-extensions-SocialProfile
-	branch = master
 [submodule "Translate"]
 	path = Translate
 	url = https://github.com/wikimedia/mediawiki-extensions-Translate
