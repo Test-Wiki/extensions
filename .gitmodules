@@ -130,7 +130,3 @@
 	path = Newsletter
 	url = https://github.com/wikimedia/mediawiki-extensions-Newsletter
 	branch = REL1_36
-[submodule "MirahezeMagic"]
-	path = MirahezeMagic
-	url = https://github.com/miraheze/MirahezeMagic
-	branch = master
