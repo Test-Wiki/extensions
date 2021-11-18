@@ -134,7 +134,7 @@
 	path = MirahezeMagic
 	url = https://github.com/miraheze/MirahezeMagic
 	branch = master
-[submodule "mediawiki-extensions-TemplateStyles"]
-	path = mediawiki-extensions-TemplateStyles
+[submodule "TemplateStyles"]
+	path = TemplateStyles
 	url = https://github.com/wikimedia/mediawiki-extensions-TemplateStyles
 	branch = REL1_37
