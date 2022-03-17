@@ -138,3 +138,7 @@
 	path = TemplateStyles
 	url = https://github.com/wikimedia/mediawiki-extensions-TemplateStyles
 	branch = REL1_37
+[submodule "Purge"]
+	path = Purge
+	url = https://github.com/Hutchy68/Purge
+	branch = master
