@@ -142,3 +142,7 @@
 	path = Purge
 	url = https://github.com/Hutchy68/Purge
 	branch = master
+[submodule "WebAuthn"]
+	path = WebAuthn
+	url = https://github.com/wikimedia/mediawiki-extensions-WebAuthn
+	branch = REL1_39
