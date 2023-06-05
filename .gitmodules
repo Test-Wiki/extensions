@@ -146,3 +146,11 @@
 	path = WebAuthn
 	url = https://github.com/wikimedia/mediawiki-extensions-WebAuthn
 	branch = REL1_39
+[submodule "Linter"]
+	path = Linter
+	url = https://github.com/wikimedia/mediawiki-extensions-Linter
+	branch = REL1_39
+[submodule "DiscussionTools"]
+	path = DiscussionTools
+	url = https://github.com/wikimedia/mediawiki-extensions-DiscussionTools
+	branch = REL1_39
