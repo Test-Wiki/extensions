@@ -154,3 +154,15 @@
 	path = DiscussionTools
 	url = https://github.com/wikimedia/mediawiki-extensions-DiscussionTools
 	branch = REL1_40
+[submodule "TorBlock"]
+	path = TorBlock
+	url = https://github.com/wikimedia/mediawiki-extensions-TorBlock
+	branch = REL1_40
+[submodule "ReplaceText"]
+	path = ReplaceText
+	url = https://github.com/wikimedia/mediawiki-extensions-ReplaceText
+	branch = REL1_40
+[submodule "SyntaxHighlight_GeSHi"]
+	path = SyntaxHighlight_GeSHi
+	url = https://github.com/wikimedia/mediawiki-extensions-SyntaxHighlight_GeSHi
+	branch = REL1_40
