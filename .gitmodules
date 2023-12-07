@@ -90,10 +90,6 @@
 	path = WikiEditor
 	url = https://github.com/wikimedia/mediawiki-extensions-WikiEditor
 	branch = REL1_40
-[submodule "RenameUser"]
-	path = RenameUser
-	url = https://github.com/wikimedia/mediawiki-extensions-RenameUser
-	branch = REL1_40
 [submodule "PdfHandler"]
 	path = PdfHandler
 	url = https://github.com/wikimedia/mediawiki-extensions-PdfHandler
@@ -165,4 +161,12 @@
 [submodule "SyntaxHighlight_GeSHi"]
 	path = SyntaxHighlight_GeSHi
 	url = https://github.com/wikimedia/mediawiki-extensions-SyntaxHighlight_GeSHi
+	branch = REL1_40
+[submodule "CharInsert"]
+	path = CharInsert
+	url = https://github.com/wikimedia/mediawiki-extensions-CharInsert
+	branch = REL1_40
+[submodule "CategoryTree"]
+	path = CategoryTree
+	url = https://github.com/wikimedia/mediawiki-extensions-CategoryTree
 	branch = REL1_40
