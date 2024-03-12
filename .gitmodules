@@ -170,3 +170,11 @@
 	path = CategoryTree
 	url = https://github.com/wikimedia/mediawiki-extensions-CategoryTree
 	branch = REL1_41
+[submodule "AntiSpoof"]
+	path = AntiSpoof
+	url = https://github.com/wikimedia/mediawiki-extensions-AntiSpoof
+	branch = REL1_41
+[submodule "Babel"]
+	path = Babel
+	url = https://github.com/wikimedia/mediawiki-extensions-Babel
+	branch = REL1_41
