@@ -178,3 +178,7 @@
 	path = Babel
 	url = https://github.com/wikimedia/mediawiki-extensions-Babel
 	branch = REL1_41
+[submodule "Editcount"]
+	path = Editcount
+	url = https://github.com/wikimedia/mediawiki-extensions-Editcount
+	branch = REL1_41
