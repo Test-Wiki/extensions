@@ -182,7 +182,3 @@
 	path = Editcount
 	url = https://github.com/wikimedia/mediawiki-extensions-Editcount
 	branch = REL1_41
-[submodule "Editcount"]
-	path = Report
-	url = https://github.com/wikimedia/mediawiki-extensions-Report
-	branch = REL1_41
