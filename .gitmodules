@@ -186,3 +186,6 @@
 	path = Report
 	url = https://github.com/wikimedia/mediawiki-extensions-Report
 	branch = REL1_41
+[submodule "UnusedRedirects"]
+	path = UnusedRedirects
+	url = https://github.com/wikimedia/mediawiki-extensions-UnusedRedirects
