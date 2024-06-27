@@ -1,19 +1,19 @@
 [submodule "InputBox"]
 	path = InputBox
 	url = https://github.com/wikimedia/mediawiki-extensions-InputBox
-	branch = REL1_41
+	branch = REL1_42
 [submodule "AbuseFilter"]
 	path = AbuseFilter
 	url = https://github.com/wikimedia/mediawiki-extensions-AbuseFilter
-	branch = REL1_41
+	branch = REL1_42
 [submodule "WikiLove"]
 	path = WikiLove
 	url = https://github.com/wikimedia/mediawiki-extensions-WikiLove
-	branch = REL1_41
+	branch = REL1_42
 [submodule "FlaggedRevs"]
 	path = FlaggedRevs
 	url = https://github.com/wikimedia/mediawiki-extensions-FlaggedRevs
-	branch = REL1_41
+	branch = REL1_42
 [submodule "UniversalLanguageSelector"]
 	path = UniversalLanguageSelector
 	url = https://github.com/wikimedia/mediawiki-extensions-UniversalLanguageSelector
@@ -21,63 +21,63 @@
 [submodule "Thanks"]
 	path = Thanks
 	url = https://github.com/wikimedia/mediawiki-extensions-Thanks
-	branch = REL1_41
+	branch = REL1_42
 [submodule "OATHAuth"]
 	path = OATHAuth
 	url = https://github.com/wikimedia/mediawiki-extensions-OATHAuth
-	branch = REL1_41
+	branch = REL1_42
 [submodule "Scribunto"]
 	path = Scribunto
 	url = https://github.com/wikimedia/mediawiki-extensions-Scribunto
-	branch = REL1_41
+	branch = REL1_42
 [submodule "OAuth"]
 	path = OAuth
 	url = https://github.com/wikimedia/mediawiki-extensions-OAuth
-	branch = REL1_41
+	branch = REL1_42
 [submodule "VisualEditor"]
 	path = VisualEditor
 	url = https://github.com/wikimedia/mediawiki-extensions-VisualEditor
-	branch = REL1_41
+	branch = REL1_42
 [submodule "CodeEditor"]
 	path = CodeEditor
 	url = https://github.com/wikimedia/mediawiki-extensions-CodeEditor
-	branch = REL1_41
+	branch = REL1_42
 [submodule "ConfirmEdit"]
 	path = ConfirmEdit
 	url = https://github.com/wikimedia/mediawiki-extensions-ConfirmEdit
-	branch = REL1_41
+	branch = REL1_42
 [submodule "Echo"]
 	path = Echo
 	url = https://github.com/wikimedia/mediawiki-extensions-Echo
-	branch = REL1_41
+	branch = REL1_42
 [submodule "Gadgets"]
 	path = Gadgets
 	url = https://github.com/wikimedia/mediawiki-extensions-Gadgets
-	branch = REL1_41
+	branch = REL1_42
 [submodule "Interwiki"]
 	path = Interwiki
 	url = https://github.com/wikimedia/mediawiki-extensions-Interwiki
-	branch = REL1_41
+	branch = REL1_42
 [submodule "MassMessage"]
 	path = MassMessage
 	url =https://github.com/wikimedia/mediawiki-extensions-MassMessage
-	branch = REL1_41
+	branch = REL1_42
 [submodule "MediaWikiChat"]
 	path = MediaWikiChat
 	url = https://github.com/wikimedia/mediawiki-extensions-MediaWikiChat
-	branch = REL1_41
+	branch = REL1_42
 [submodule "Nuke"]
 	path = Nuke
 	url = https://github.com/wikimedia/mediawiki-extensions-Nuke
-	branch = REL1_41
+	branch = REL1_42
 [submodule "ParserFunctions"]
 	path = ParserFunctions
 	url = https://github.com/wikimedia/mediawiki-extensions-ParserFunctions
-	branch = REL1_41
+	branch = REL1_42
 [submodule "SpamBlacklist"]
 	path = SpamBlacklist
 	url = https://github.com/wikimedia/mediawiki-extensions-SpamBlacklist
-	branch = REL1_41
+	branch = REL1_42
 [submodule "Translate"]
 	path = Translate
 	url = https://github.com/wikimedia/mediawiki-extensions-Translate
@@ -89,19 +89,19 @@
 [submodule "WikiEditor"]
 	path = WikiEditor
 	url = https://github.com/wikimedia/mediawiki-extensions-WikiEditor
-	branch = REL1_41
+	branch = REL1_42
 [submodule "PdfHandler"]
 	path = PdfHandler
 	url = https://github.com/wikimedia/mediawiki-extensions-PdfHandler
-	branch = REL1_41
+	branch = REL1_42
 [submodule "DismissableSiteNotice"]
 	path = DismissableSiteNotice
 	url = https://github.com/wikimedia/mediawiki-extensions-DismissableSiteNotice
-	branch = REL1_41
+	branch = REL1_42
 [submodule "CheckUser"]
 	path = CheckUser
 	url = https://github.com/test-wiki/mediawiki-extensions-CheckUser
-	branch = REL1_41
+	branch = REL1_42
 [submodule "StaffPowers"]
 	path = StaffPowers
 	url = https://github.com/wikimedia/mediawiki-extensions-StaffPowers
@@ -109,7 +109,7 @@
 [submodule "TitleBlacklist"]
 	path = TitleBlacklist
 	url = https://github.com/wikimedia/mediawiki-extensions-TitleBlacklist
-	branch = REL1_41
+	branch = REL1_42
 [submodule "MatomoAnalytics"]
 	path = MatomoAnalytics
 	url = https://github.com/miraheze/MatomoAnalytics
@@ -117,15 +117,15 @@
 [submodule "CookieWarning"]
 	path = CookieWarning
 	url = https://github.com/wikimedia/mediawiki-extensions-CookieWarning
-	branch = REL1_41
+	branch = REL1_42
 [submodule "MobileFrontend"]
 	path = MobileFrontend
 	url = https://github.com/wikimedia/mediawiki-extensions-MobileFrontend
-        branch = REL1_41
+        branch = REL1_42
 [submodule "Newsletter"]
 	path = Newsletter
 	url = https://github.com/wikimedia/mediawiki-extensions-Newsletter
-	branch = REL1_41
+	branch = REL1_42
 [submodule "MirahezeMagic"]
 	path = MirahezeMagic
 	url = https://github.com/test-wiki/MirahezeMagic
@@ -133,7 +133,7 @@
 [submodule "TemplateStyles"]
 	path = TemplateStyles
 	url = https://github.com/wikimedia/mediawiki-extensions-TemplateStyles
-	branch = REL1_41
+	branch = REL1_42
 [submodule "Purge"]
 	path = Purge
 	url = https://github.com/Hutchy68/Purge
@@ -141,51 +141,52 @@
 [submodule "WebAuthn"]
 	path = WebAuthn
 	url = https://github.com/wikimedia/mediawiki-extensions-WebAuthn
-	branch = REL1_41
+	branch = REL1_42
 [submodule "Linter"]
 	path = Linter
 	url = https://github.com/wikimedia/mediawiki-extensions-Linter
-	branch = REL1_41
+	branch = REL1_42
 [submodule "DiscussionTools"]
 	path = DiscussionTools
 	url = https://github.com/wikimedia/mediawiki-extensions-DiscussionTools
-	branch = REL1_41
+	branch = REL1_42
 [submodule "TorBlock"]
 	path = TorBlock
 	url = https://github.com/wikimedia/mediawiki-extensions-TorBlock
-	branch = REL1_41
+	branch = REL1_42
 [submodule "ReplaceText"]
 	path = ReplaceText
 	url = https://github.com/wikimedia/mediawiki-extensions-ReplaceText
-	branch = REL1_41
+	branch = REL1_42
 [submodule "SyntaxHighlight_GeSHi"]
 	path = SyntaxHighlight_GeSHi
 	url = https://github.com/wikimedia/mediawiki-extensions-SyntaxHighlight_GeSHi
-	branch = REL1_41
+	branch = REL1_42
 [submodule "CharInsert"]
 	path = CharInsert
 	url = https://github.com/wikimedia/mediawiki-extensions-CharInsert
-	branch = REL1_41
+	branch = REL1_42
 [submodule "CategoryTree"]
 	path = CategoryTree
 	url = https://github.com/wikimedia/mediawiki-extensions-CategoryTree
-	branch = REL1_41
+	branch = REL1_42
 [submodule "AntiSpoof"]
 	path = AntiSpoof
 	url = https://github.com/wikimedia/mediawiki-extensions-AntiSpoof
-	branch = REL1_41
+	branch = REL1_42
 [submodule "Babel"]
 	path = Babel
 	url = https://github.com/wikimedia/mediawiki-extensions-Babel
-	branch = REL1_41
+	branch = REL1_42
 [submodule "Editcount"]
 	path = Editcount
 	url = https://github.com/wikimedia/mediawiki-extensions-Editcount
-	branch = REL1_41
+	branch = REL1_42
 [submodule "Report"]
 	path = Report
 	url = https://github.com/wikimedia/mediawiki-extensions-Report
-	branch = REL1_41
+	branch = REL1_42
 [submodule "UnusedRedirects"]
 	path = UnusedRedirects
 	url = https://github.com/wikimedia/mediawiki-extensions-UnusedRedirects
+	branch = REL1_42
