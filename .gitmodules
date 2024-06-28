@@ -186,3 +186,6 @@
 	path = UnusedRedirects
 	url = https://github.com/wikimedia/mediawiki-extensions-UnusedRedirects
 	branch = REL1_42
+[submodule "Purge"]
+	path = Purge
+	url = https://github.com/AlPha5130/mediawiki-extensions-Purge
