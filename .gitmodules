@@ -192,3 +192,4 @@
 [submodule "NewUserMessage"]
 	path = NewUserMessage
 	url = https://github.com/wikimedia/mediawiki-extensions-NewUserMessage
+        branch = REL1_42
