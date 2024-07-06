@@ -189,3 +189,6 @@
 [submodule "Purge"]
 	path = Purge
 	url = https://github.com/AlPha5130/mediawiki-extensions-Purge
+[submodule "NewUserMessage"]
+	path = NewUserMessage
+	url = https://github.com/wikimedia/mediawiki-extensions-NewUserMessage
