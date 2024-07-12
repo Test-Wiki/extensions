@@ -193,3 +193,7 @@
 	path = NewUserMessage
 	url = https://github.com/wikimedia/mediawiki-extensions-NewUserMessage
         branch = REL1_42
+[submodule "UserMerge"]
+	path = UserMerge
+	url = https://github.com/wikimedia/mediawiki-extensions-UserMerge
+	branch = REL1_42
