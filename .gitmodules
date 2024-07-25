@@ -197,3 +197,7 @@
 	path = UserMerge
 	url = https://github.com/wikimedia/mediawiki-extensions-UserMerge
 	branch = REL1_42
+[submodule "StopForumSpam"]
+	path = StopForumSpam
+	url = https://github.com/wikimedia/mediawiki-extensions-StopForumSpam
+	branch = REL1_42
