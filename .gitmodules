@@ -201,3 +201,6 @@
 	path = StopForumSpam
 	url = https://github.com/wikimedia/mediawiki-extensions-StopForumSpam
 	branch = REL1_42
+[submodule "LoginNotify"]
+	path = LoginNotify
+	url = https://github.com/wikimedia/mediawiki-extensions-LoginNotify
