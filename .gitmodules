@@ -81,7 +81,7 @@
 [submodule "Translate"]
 	path = Translate
 	url = https://github.com/wikimedia/mediawiki-extensions-Translate
-	branch = master
+	branch = REL1_42
 [submodule "luasandbox"]
 	path = luasandbox
 	url = https://github.com/wikimedia/mediawiki-php-luasandbox
