@@ -204,3 +204,4 @@
 [submodule "LoginNotify"]
 	path = LoginNotify
 	url = https://github.com/wikimedia/mediawiki-extensions-LoginNotify
+	branch = REL1_42
