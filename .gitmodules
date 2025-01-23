@@ -209,3 +209,7 @@
 	path = wikidiff2
 	url = https://github.com/wikimedia/mediawiki-php-wikidiff2
 	branch = master
+[submodule "SecurePoll"]
+	path = SecurePoll
+	url = https://github.com/wikimedia/mediawiki-extensions-SecurePoll
+	branch = REL1_43
