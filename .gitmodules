@@ -213,3 +213,7 @@
 	path = SecurePoll
 	url = https://github.com/wikimedia/mediawiki-extensions-SecurePoll
 	branch = REL1_43
+[submodule "DiscordNotifications"]
+	path = DiscordNotifications
+	url = https://github.com/Universal-Omega/DiscordNotifications
+	branch = master
