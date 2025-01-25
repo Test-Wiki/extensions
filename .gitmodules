@@ -193,10 +193,6 @@
 	path = NewUserMessage
 	url = https://github.com/wikimedia/mediawiki-extensions-NewUserMessage
         branch = REL1_43
-[submodule "UserMerge"]
-	path = UserMerge
-	url = https://github.com/wikimedia/mediawiki-extensions-UserMerge
-	branch = REL1_43
 [submodule "StopForumSpam"]
 	path = StopForumSpam
 	url = https://github.com/wikimedia/mediawiki-extensions-StopForumSpam
