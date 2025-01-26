@@ -193,6 +193,10 @@
 	path = NewUserMessage
 	url = https://github.com/wikimedia/mediawiki-extensions-NewUserMessage
         branch = REL1_43
+[submodule "StopForumSpam"]
+	path = StopForumSpam
+	url = https://github.com/wikimedia/mediawiki-extensions-StopForumSpam
+	branch = REL1_43
 [submodule "LoginNotify"]
 	path = LoginNotify
 	url = https://github.com/wikimedia/mediawiki-extensions-LoginNotify
