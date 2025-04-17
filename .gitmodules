@@ -113,7 +113,7 @@
 [submodule "MatomoAnalytics"]
 	path = MatomoAnalytics
 	url = https://github.com/miraheze/MatomoAnalytics
-	branch = master
+	branch = main
 [submodule "CookieWarning"]
 	path = CookieWarning
 	url = https://github.com/wikimedia/mediawiki-extensions-CookieWarning
@@ -211,5 +211,5 @@
 	branch = REL1_43
 [submodule "DiscordNotifications"]
 	path = DiscordNotifications
-	url = https://github.com/Universal-Omega/DiscordNotifications
-	branch = master
+	url = https://github.com/miraheze/DiscordNotifications
+	branch = main
