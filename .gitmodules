@@ -209,3 +209,7 @@
 	path = DiscordNotifications
 	url = https://github.com/miraheze/DiscordNotifications
 	branch = main
+[submodule "CodeMirror"]
+	path = CodeMirror
+	url = https://github.com/wikimedia/MediaWiki-extensions-CodeMirror
+	branch = REL1_44
