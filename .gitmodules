@@ -214,3 +214,19 @@
 	path = CodeMirror
 	url = https://github.com/wikimedia/MediaWiki-extensions-CodeMirror
 	branch = REL1_45
+[submodule "JsonConfig"]
+	path = JsonConfig
+	url = https://github.com/wikimedia/mediawiki-extensions-JsonConfig
+	branch = REL1_45
+[submodule "MyVariables"]
+	path = MyVariables
+	url = https://github.com/wikimedia/mediawiki-extensions-MyVariables
+	branch = REL1_45
+[submodule "CategorySortHeaders"]
+	path = CategorySortHeaders
+	url = https://github.com/wikimedia/mediawiki-extensions-CategorySortHeaders
+	branch = REL1_45
+[submodule "MagicNoCache"]
+	path = MagicNoCache
+	url = https://github.com/wikimedia/mediawiki-extensions-MagicNoCache
+	branch = REL1_45
