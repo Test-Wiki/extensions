@@ -230,3 +230,7 @@
 	path = MagicNoCache
 	url = https://github.com/wikimedia/mediawiki-extensions-MagicNoCache
 	branch = REL1_45
+[submodule "TemplateData"]
+	path = TemplateData
+	url = https://github.com/wikimedia/mediawiki-extensions-TemplateData
+	branch = REL1_45
