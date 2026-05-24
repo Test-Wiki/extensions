@@ -234,3 +234,7 @@
 	path = TemplateData
 	url = https://github.com/wikimedia/mediawiki-extensions-TemplateData
 	branch = REL1_45
+[submodule "QuickInstantCommons"]
+	path = QuickInstantCommons
+	url = https://github.com/wikimedia/mediawiki-extensions-QuickInstantCommons
+	branch = REL1_45
