@@ -130,10 +130,6 @@
 	path = TemplateStyles
 	url = https://github.com/wikimedia/mediawiki-extensions-TemplateStyles
 	branch = REL1_46
-[submodule "WebAuthn"]
-	path = WebAuthn
-	url = https://github.com/wikimedia/mediawiki-extensions-WebAuthn
-	branch = REL1_46
 [submodule "Linter"]
 	path = Linter
 	url = https://github.com/wikimedia/mediawiki-extensions-Linter
